@@ -1,0 +1,1787 @@
+{
+  "inputFile": "/Users/nukulghosh/developer/venue_map_agent/samples/TCFloorplan3.png",
+  "processedAt": "2026-04-27T13:55:32.315Z",
+  "imageReadabilityScore": 0.5686,
+  "overallStatus": "PARTIAL",
+  "sections": [
+    {
+      "section": "UNKNOWN_0",
+      "sectionConfidence": 0.2281,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_0\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "CAN",
+      "sectionConfidence": 0.5951,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_2",
+      "sectionConfidence": 0.4201,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_2\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "CTAC",
+      "sectionConfidence": 0.3431,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "CC",
+      "sectionConfidence": 0.3631,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_5",
+      "sectionConfidence": 0.4851,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_5\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "LYY",
+      "sectionConfidence": 0.4821,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 1,
+        "type": 0.5
+      },
+      "warnings": [
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.5511,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "RR",
+      "sectionConfidence": 0.4711,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_9",
+      "sectionConfidence": 0.3621,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_9\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "JL",
+      "sectionConfidence": 0.5421,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 1,
+        "type": 0.5
+      },
+      "warnings": [
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_11",
+      "sectionConfidence": 0.5211,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_11\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_12",
+      "sectionConfidence": 0.3681,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_12\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.6711,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_14",
+      "sectionConfidence": 0.4341,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_14\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_15",
+      "sectionConfidence": 0.4681,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_15\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "516",
+      "sectionConfidence": 0.6291,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_17",
+      "sectionConfidence": 0.5211,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_17\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_18",
+      "sectionConfidence": 0.5171,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_18\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.6981,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "2",
+      "sectionConfidence": 0.6311,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "UNKNOWN_21",
+      "sectionConfidence": 0.4671,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_21\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.6861,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "9",
+      "sectionConfidence": 0.6741,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.6741,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "S16",
+      "sectionConfidence": 0.6291,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.4,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_26",
+      "sectionConfidence": 0.4371,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_26\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "20",
+      "sectionConfidence": 0.6951,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "CA",
+      "sectionConfidence": 0.5101,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_29",
+      "sectionConfidence": 0.5451,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.56,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_29\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_30",
+      "sectionConfidence": 0.5171,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_30\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.7011,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "2",
+      "sectionConfidence": 0.6621,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.6441,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_34",
+      "sectionConfidence": 0.4411,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_34\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.6741,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "5",
+      "sectionConfidence": 0.6621,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.5,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "19",
+      "sectionConfidence": 0.5541,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "20",
+      "sectionConfidence": 0.6981,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_39",
+      "sectionConfidence": 0.4981,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_39\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_40",
+      "sectionConfidence": 0.5141,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_40\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_41",
+      "sectionConfidence": 0.3881,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_41\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.5831,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.56,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "2",
+      "sectionConfidence": 0.6251,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.5,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "UNKNOWN_44",
+      "sectionConfidence": 0.3241,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_44\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.6571,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.4,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "10",
+      "sectionConfidence": 0.6761,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "19",
+      "sectionConfidence": 0.6561,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.4,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "516",
+      "sectionConfidence": 0.6441,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.4,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "19",
+      "sectionConfidence": 0.5861,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "20",
+      "sectionConfidence": 0.6561,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "29",
+      "sectionConfidence": 0.6711,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_52",
+      "sectionConfidence": 0.5091,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_52\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_53",
+      "sectionConfidence": 0.4641,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_53\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.6891,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "23",
+      "sectionConfidence": 0.6411,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.6801,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_57",
+      "sectionConfidence": 0.4351,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_57\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_58",
+      "sectionConfidence": 0.4411,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_58\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "516",
+      "sectionConfidence": 0.6891,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "19",
+      "sectionConfidence": 0.6111,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "20",
+      "sectionConfidence": 0.7011,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_62",
+      "sectionConfidence": 0.4891,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_62\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_63",
+      "sectionConfidence": 0.5091,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_63\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.6911,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.7031,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "4",
+      "sectionConfidence": 0.6511,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.4,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.6061,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.4,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "2",
+      "sectionConfidence": 0.6291,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "12",
+      "sectionConfidence": 0.6201,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.4,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "2",
+      "sectionConfidence": 0.6441,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.7,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "19",
+      "sectionConfidence": 0.5721,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "20",
+      "sectionConfidence": 0.6301,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.4,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "UNKNOWN_73",
+      "sectionConfidence": 0.4191,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.2,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_73\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_74",
+      "sectionConfidence": 0.4361,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_74\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_75",
+      "sectionConfidence": 0.5451,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.56,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_75\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.6741,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "23",
+      "sectionConfidence": 0.6411,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.4,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_78",
+      "sectionConfidence": 0.2531,
+      "status": "LOW",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_78\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.7001,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "UNKNOWN_80",
+      "sectionConfidence": 0.4591,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_80\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_81",
+      "sectionConfidence": 0.4861,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_81\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "516",
+      "sectionConfidence": 0.6741,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "19",
+      "sectionConfidence": 0.5811,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "20",
+      "sectionConfidence": 0.6921,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_85",
+      "sectionConfidence": 0.4951,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_85\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_86",
+      "sectionConfidence": 0.5451,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.56,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_86\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_87",
+      "sectionConfidence": 0.4091,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_87\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.7091,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "2",
+      "sectionConfidence": 0.6111,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "6",
+      "sectionConfidence": 0.6551,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "9",
+      "sectionConfidence": 0.6531,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "141",
+      "sectionConfidence": 0.6351,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "516",
+      "sectionConfidence": 0.6831,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "19",
+      "sectionConfidence": 0.5781,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "20",
+      "sectionConfidence": 0.6981,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "UNKNOWN_96",
+      "sectionConfidence": 0.4891,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_96\"",
+        "no row labels detected",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_97",
+      "sectionConfidence": 0.5391,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.56,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_97\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "UNKNOWN_98",
+      "sectionConfidence": 0.4181,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.4,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_98\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "1",
+      "sectionConfidence": 0.6831,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "23",
+      "sectionConfidence": 0.6651,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "7",
+      "sectionConfidence": 0.6611,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.2,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "9",
+      "sectionConfidence": 0.6501,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "12",
+      "sectionConfidence": 0.6471,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0,
+        "seats": 0.1,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "no row labels detected"
+      ]
+    },
+    {
+      "section": "S16",
+      "sectionConfidence": 0.6641,
+      "status": "OK",
+      "fieldConfidences": {
+        "sectionId": 1,
+        "rows": 0.2,
+        "seats": 0.3,
+        "capacity": 0.8,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": []
+    },
+    {
+      "section": "UNKNOWN_105",
+      "sectionConfidence": 0.5061,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0,
+        "rows": 0.56,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 0.9,
+        "type": 0.9
+      },
+      "warnings": [
+        "section_id not detected — using fallback \"UNKNOWN_105\"",
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    },
+    {
+      "section": "FEM",
+      "sectionConfidence": 0.4261,
+      "status": "PARTIAL",
+      "fieldConfidences": {
+        "sectionId": 0.65,
+        "rows": 0.6,
+        "seats": 0,
+        "capacity": 0,
+        "secnam": 1,
+        "type": 0.5
+      },
+      "warnings": [
+        "no seat numbers detected",
+        "capacity defaulted to 0"
+      ]
+    }
+  ]
+}
